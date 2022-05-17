@@ -1,0 +1,4 @@
+easyjobs
+fastapi
+requests
+httpx
